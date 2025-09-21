@@ -12,7 +12,7 @@ Responsive Design: Fully responsive web design for a seamless experience on any 
 Installation
 Clone the Repository
 
-git clone https://github.com/tanirathi/Carpooling-Web-App
+git clone https://github.com/Er-Horizon/Cab_Sharing_SWE
 cd Carpooling-Web-App
 Install Dependencies
 
@@ -43,3 +43,4 @@ Your app should now be running on http://localhost:3000.
 
 Usage
 After installation, users can register as a driver or passenger, complete their profiles, and start offering or booking rides. The application's intuitive interface makes it easy to navigate through available rides, communicate with other users, and manage bookings.
+
